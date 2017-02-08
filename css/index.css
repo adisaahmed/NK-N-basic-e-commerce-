@@ -29,6 +29,10 @@
 	font-size: 20px;
 	color: #F57A7E;
 }
+.back{
+	background-color: white;
+	height: 50px;
+}
 
 .tact{
 	font-size: 126px !important;
@@ -37,7 +41,30 @@
 	text-align: center;
 }
 
-
+.img{
+	background-image: url(../images/p1.jpg);
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	height: 300px;
+}
+.img1{
+	background-image: url(../images/p2.jpg);
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	height: 300px;
+}
+.img2{
+	background-image: url(../images/p3.jpg);
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	height: 300px;
+}
+.img3{
+	background-image: url(../images/p4.jpg);
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	height: 300px;
+}
 
 
 
