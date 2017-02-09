@@ -2,6 +2,10 @@
 	padding: 0px;
 	margin: 0px;
 }
+body{
+	background-color: #eee !important;
+}
+
 
 .gg{
 	background-color: #fff !important;
@@ -44,27 +48,86 @@
 .img{
 	background-image: url(../images/p1.jpg);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
-	height: 300px;
+	background-size: 100% auto;
+	height: 400px;
 }
 .img1{
-	background-image: url(../images/p2.jpg);
+	background-image: url(../images/cc.jpg);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
-	height: 300px;
+	background-size: 100% auto;
+	height: 400px;
 }
 .img2{
-	background-image: url(../images/p3.jpg);
+	background-image: url(../images/pana.jpg);
 	background-repeat: no-repeat;
-	background-size: auto 100%;
-	height: 300px;
+	background-size: 100% auto;
+	height: 400px;
 }
 .img3{
 	background-image: url(../images/p4.jpg);
 	background-repeat: no-repeat;
+	background-size: 100% auto;
+	height: 400px;
+}
+table{
+	width: 100%;
+	min-width: 100%;
+}
+td{
+	height: 200px;
+}
+.side-img{
+	background-image: url(../images/p4.jpg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	height: 200px;
+}
+.side-img1{
+	background-image: url(../images/p2.jpg);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	height: 200px;
+}
+.itemss{
+	background-image: url(../images/cc.jpg);
+	background-repeat: no-repeat;
 	background-size: auto 100%;
+	height: 400px;
+}
+.itemss-img{
+	background-image: url(../images/cam.jpg);
+	background-repeat:no-repeat;
+	background-size: 100% auto;
 	height: 300px;
 }
+.itemss-img1{
+	background-image: url(../images/cctv.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	height: 400px;
+}
+
+.itemss-img2{
+	background-image: url(../images/pp.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	height: 400px;
+}
+.itemss-img3{
+	background-image: url(../images/came.jpg);
+	background-repeat: no-repeat;
+	background-size:  100% auto;
+	height: 400px;
+}
+#padding {
+	padding: 0px !important;
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
+
+
+
+
 
 
 
